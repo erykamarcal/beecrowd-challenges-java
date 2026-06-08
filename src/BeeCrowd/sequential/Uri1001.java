@@ -1,4 +1,4 @@
-package BeeCrowd;
+package BeeCrowd.sequential;
 
 import java.util.Scanner;
 

@@ -1,16 +1,19 @@
-package BeeCrowd;
+package BeeCrowd.sequential;
 
 import java.util.Scanner;
 
-public class Uri1003 {
+public class Uri1004 {
+
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         int A, B;
+        int PROD;
         A = scanner.nextInt();
         B = scanner.nextInt();
-        int soma = A+B;
-        System.out.println("SOMA = " + soma);
+
+        PROD = A*B;
+        System.out.println("PROD = " + PROD);
 
         scanner.close();
     }
