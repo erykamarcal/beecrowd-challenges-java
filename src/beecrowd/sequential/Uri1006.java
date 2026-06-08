@@ -1,4 +1,4 @@
-package BeeCrowd.sequential;
+package beecrowd.sequential;
 import java.util.Scanner;
 public class Uri1006 {
     public static void main(String[] args) {

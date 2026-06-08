@@ -1,4 +1,4 @@
-package BeeCrowd.sequential;
+package beecrowd.sequential;
 
 public class Uri1000 {
     public static void main(String[] args) {

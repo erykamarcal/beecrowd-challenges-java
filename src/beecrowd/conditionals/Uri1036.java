@@ -1,4 +1,4 @@
-package BeeCrowd.conditionals;
+package beecrowd.conditionals;
 
 import java.util.Scanner;
 
